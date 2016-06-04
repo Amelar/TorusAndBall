@@ -1,0 +1,17 @@
+﻿  Skeleton.cpp
+c:\users\ádám\google drive\2015-16-2\grafika\3hazi\opengl\programs\skeleton\skeleton\skeleton.cpp(270): warning C4101: 'height': unreferenced local variable
+c:\users\ádám\google drive\2015-16-2\grafika\3hazi\opengl\programs\skeleton\skeleton\skeleton.cpp(270): warning C4101: 'width': unreferenced local variable
+c:\users\ádám\google drive\2015-16-2\grafika\3hazi\opengl\programs\skeleton\skeleton\skeleton.cpp(494): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ádám\google drive\2015-16-2\grafika\3hazi\opengl\programs\skeleton\skeleton\skeleton.cpp(513): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ádám\google drive\2015-16-2\grafika\3hazi\opengl\programs\skeleton\skeleton\skeleton.cpp(514): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ádám\google drive\2015-16-2\grafika\3hazi\opengl\programs\skeleton\skeleton\skeleton.cpp(515): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ádám\google drive\2015-16-2\grafika\3hazi\opengl\programs\skeleton\skeleton\skeleton.cpp(687): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ádám\google drive\2015-16-2\grafika\3hazi\opengl\programs\skeleton\skeleton\skeleton.cpp(688): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ádám\google drive\2015-16-2\grafika\3hazi\opengl\programs\skeleton\skeleton\skeleton.cpp(688): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ádám\google drive\2015-16-2\grafika\3hazi\opengl\programs\skeleton\skeleton\skeleton.cpp(689): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ádám\google drive\2015-16-2\grafika\3hazi\opengl\programs\skeleton\skeleton\skeleton.cpp(691): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ádám\google drive\2015-16-2\grafika\3hazi\opengl\programs\skeleton\skeleton\skeleton.cpp(692): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ádám\google drive\2015-16-2\grafika\3hazi\opengl\programs\skeleton\skeleton\skeleton.cpp(693): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ádám\google drive\2015-16-2\grafika\3hazi\opengl\programs\skeleton\skeleton\skeleton.cpp(702): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\ádám\google drive\2015-16-2\grafika\3hazi\opengl\programs\skeleton\skeleton\skeleton.cpp(718): warning C4305: 'argument': truncation from 'double' to 'float'
+  Skeleton.vcxproj -> C:\Users\Ádám\Google Drive\2015-16-2\grafika\3hazi\opengl\Programs\Skeleton\bin\Skeleton.exe
